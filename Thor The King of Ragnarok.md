@@ -10,7 +10,7 @@ Attack with Lightning : SPACE (30 sec to spawn)
 
 Fight: Mouse Press
 
-## NPC - THANOS
+## NPC - LOKI
 
 Fight by hand
 
